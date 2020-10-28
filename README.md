@@ -10,7 +10,7 @@ Content:
 3. mask_classifier.py
     Python file, there classification model is trained to detect face mask on a person, includes also image preprocessing
 4. inputs.npy, labels.npy
-    Images as multidimensonal numpy array and corresponding labels (0 - no mask, 1 - mask). These were used to train the model from mask_classifier.py. (you can download it via onedrive link below)
+    Images as multidimensonal numpy array and corresponding labels (0 - no mask, 1 - mask), (you can download them via onedrive link below). These were used to train the model from mask_classifier.py. 
 5. Mask detection_demo.mp4
     Recording of my laptop screen where I test my mask detector
     
